@@ -1,0 +1,17 @@
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Service.dll.config
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Service.dll
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Service.pdb
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Domain.dll
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Infraestructure.dll
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Domain.pdb
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Infraestructure.pdb
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\Infraestructure.dll.config
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\source\repos\MVCAJAX\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\MVCAJAX\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\MVCAJAX\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\toshiba\source\repos\MVCAJAX\Service\obj\Debug\Service.dll
+C:\Users\toshiba\source\repos\MVCAJAX\Service\obj\Debug\Service.pdb
